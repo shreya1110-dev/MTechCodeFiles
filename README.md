@@ -1,2 +1,1 @@
-# MTechCodeFiles
-BITS Code files
+# MTech AI/ML Code Assignment Files
